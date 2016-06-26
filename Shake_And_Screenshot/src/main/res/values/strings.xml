@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">ShakeAndScreenShot</string>
+    <string name="title_activity_base">BaseActivity</string>
 </resources>
