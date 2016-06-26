@@ -1,30 +1,30 @@
 [
     {
-        "merged": "F:\\Android\\AndroidStudioWorkSpace\\AndroidBlogDemo\\SplashGuidePager\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\login_point_selected.png",
-        "source": "F:\\Android\\AndroidStudioWorkSpace\\AndroidBlogDemo\\SplashGuidePager\\src\\main\\res\\drawable-hdpi\\login_point_selected.png"
+        "merged": "F:\\Android\\AndroidStudioWorkSpace\\AndroidBlogDemo\\Splash_Guide_Pager\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\guide_1.jpg",
+        "source": "F:\\Android\\AndroidStudioWorkSpace\\AndroidBlogDemo\\Splash_Guide_Pager\\src\\main\\res\\drawable-hdpi\\guide_1.jpg"
     },
     {
-        "merged": "F:\\Android\\AndroidStudioWorkSpace\\AndroidBlogDemo\\SplashGuidePager\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\welcome_android.jpg",
-        "source": "F:\\Android\\AndroidStudioWorkSpace\\AndroidBlogDemo\\SplashGuidePager\\src\\main\\res\\drawable-hdpi\\welcome_android.jpg"
+        "merged": "F:\\Android\\AndroidStudioWorkSpace\\AndroidBlogDemo\\Splash_Guide_Pager\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\login_point_selected.png",
+        "source": "F:\\Android\\AndroidStudioWorkSpace\\AndroidBlogDemo\\Splash_Guide_Pager\\src\\main\\res\\drawable-hdpi\\login_point_selected.png"
     },
     {
-        "merged": "F:\\Android\\AndroidStudioWorkSpace\\AndroidBlogDemo\\SplashGuidePager\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\guide_3.jpg",
-        "source": "F:\\Android\\AndroidStudioWorkSpace\\AndroidBlogDemo\\SplashGuidePager\\src\\main\\res\\drawable-hdpi\\guide_3.jpg"
+        "merged": "F:\\Android\\AndroidStudioWorkSpace\\AndroidBlogDemo\\Splash_Guide_Pager\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\guide_2.jpg",
+        "source": "F:\\Android\\AndroidStudioWorkSpace\\AndroidBlogDemo\\Splash_Guide_Pager\\src\\main\\res\\drawable-hdpi\\guide_2.jpg"
     },
     {
-        "merged": "F:\\Android\\AndroidStudioWorkSpace\\AndroidBlogDemo\\SplashGuidePager\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\guide_2.jpg",
-        "source": "F:\\Android\\AndroidStudioWorkSpace\\AndroidBlogDemo\\SplashGuidePager\\src\\main\\res\\drawable-hdpi\\guide_2.jpg"
+        "merged": "F:\\Android\\AndroidStudioWorkSpace\\AndroidBlogDemo\\Splash_Guide_Pager\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\login_point.png",
+        "source": "F:\\Android\\AndroidStudioWorkSpace\\AndroidBlogDemo\\Splash_Guide_Pager\\src\\main\\res\\drawable-hdpi\\login_point.png"
     },
     {
-        "merged": "F:\\Android\\AndroidStudioWorkSpace\\AndroidBlogDemo\\SplashGuidePager\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_launcher.png",
-        "source": "F:\\Android\\AndroidStudioWorkSpace\\AndroidBlogDemo\\SplashGuidePager\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+        "merged": "F:\\Android\\AndroidStudioWorkSpace\\AndroidBlogDemo\\Splash_Guide_Pager\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_launcher.png",
+        "source": "F:\\Android\\AndroidStudioWorkSpace\\AndroidBlogDemo\\Splash_Guide_Pager\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
     },
     {
-        "merged": "F:\\Android\\AndroidStudioWorkSpace\\AndroidBlogDemo\\SplashGuidePager\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\login_point.png",
-        "source": "F:\\Android\\AndroidStudioWorkSpace\\AndroidBlogDemo\\SplashGuidePager\\src\\main\\res\\drawable-hdpi\\login_point.png"
+        "merged": "F:\\Android\\AndroidStudioWorkSpace\\AndroidBlogDemo\\Splash_Guide_Pager\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\welcome_android.jpg",
+        "source": "F:\\Android\\AndroidStudioWorkSpace\\AndroidBlogDemo\\Splash_Guide_Pager\\src\\main\\res\\drawable-hdpi\\welcome_android.jpg"
     },
     {
-        "merged": "F:\\Android\\AndroidStudioWorkSpace\\AndroidBlogDemo\\SplashGuidePager\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\guide_1.jpg",
-        "source": "F:\\Android\\AndroidStudioWorkSpace\\AndroidBlogDemo\\SplashGuidePager\\src\\main\\res\\drawable-hdpi\\guide_1.jpg"
+        "merged": "F:\\Android\\AndroidStudioWorkSpace\\AndroidBlogDemo\\Splash_Guide_Pager\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\guide_3.jpg",
+        "source": "F:\\Android\\AndroidStudioWorkSpace\\AndroidBlogDemo\\Splash_Guide_Pager\\src\\main\\res\\drawable-hdpi\\guide_3.jpg"
     }
 ]
