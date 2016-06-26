@@ -1,0 +1,3 @@
+include ':Share_Simpledata', ':Camera_Demo', ':library', ':Universal_Image_loader_sample', ':Shake_And_Screenshot'
+include ':apiDemos'
+include ':Splash_Guide_Pager'
