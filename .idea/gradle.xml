@@ -15,8 +15,10 @@
             <option value="$PROJECT_DIR$/Splash_Guide_Pager" />
             <option value="$PROJECT_DIR$/Universal_Image_loader_sample" />
             <option value="$PROJECT_DIR$/apiDemos" />
+            <option value="$PROJECT_DIR$/binderdemo" />
             <option value="$PROJECT_DIR$/fragment_demo" />
             <option value="$PROJECT_DIR$/library" />
+            <option value="$PROJECT_DIR$/messengerdemo" />
           </set>
         </option>
         <option name="myModules">
@@ -28,8 +30,10 @@
             <option value="$PROJECT_DIR$/Splash_Guide_Pager" />
             <option value="$PROJECT_DIR$/Universal_Image_loader_sample" />
             <option value="$PROJECT_DIR$/apiDemos" />
+            <option value="$PROJECT_DIR$/binderdemo" />
             <option value="$PROJECT_DIR$/fragment_demo" />
             <option value="$PROJECT_DIR$/library" />
+            <option value="$PROJECT_DIR$/messengerdemo" />
           </set>
         </option>
       </GradleProjectSettings>

@@ -3,6 +3,16 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/AndroidBlogDemo.iml" filepath="$PROJECT_DIR$/AndroidBlogDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Camera_Demo/Camera_Demo.iml" filepath="$PROJECT_DIR$/Camera_Demo/Camera_Demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Shake_And_Screenshot/Shake_And_Screenshot.iml" filepath="$PROJECT_DIR$/Shake_And_Screenshot/Shake_And_Screenshot.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Share_Simpledata/Share_Simpledata.iml" filepath="$PROJECT_DIR$/Share_Simpledata/Share_Simpledata.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Splash_Guide_Pager/Splash_Guide_Pager.iml" filepath="$PROJECT_DIR$/Splash_Guide_Pager/Splash_Guide_Pager.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Universal_Image_loader_sample/Universal_Image_loader_sample.iml" filepath="$PROJECT_DIR$/Universal_Image_loader_sample/Universal_Image_loader_sample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/apiDemos/apiDemos.iml" filepath="$PROJECT_DIR$/apiDemos/apiDemos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/binderdemo/binderdemo.iml" filepath="$PROJECT_DIR$/binderdemo/binderdemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fragment_demo/fragment_demo.iml" filepath="$PROJECT_DIR$/fragment_demo/fragment_demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/library/library.iml" filepath="$PROJECT_DIR$/library/library.iml" />
+      <module fileurl="file://$PROJECT_DIR$/messengerdemo/messengerdemo.iml" filepath="$PROJECT_DIR$/messengerdemo/messengerdemo.iml" />
     </modules>
   </component>
 </project>
