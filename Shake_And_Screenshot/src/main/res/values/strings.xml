@@ -1,4 +1,7 @@
 <resources>
     <string name="app_name">ShakeAndScreenShot</string>
     <string name="title_activity_base">BaseActivity</string>
+    <string name="alert_dialog_ok">ok</string>
+    <string name="alert_dialog_cancel">cancel</string>
+    <string name="alert_dialog_two_buttons_title">截屏反馈</string>
 </resources>
