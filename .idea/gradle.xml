@@ -3,35 +3,9 @@
   <component name="GradleSettings">
     <option name="linkedExternalProjectsSettings">
       <GradleProjectSettings>
-        <option name="distributionType" value="LOCAL" />
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
-        <option name="gradleHome" value="F:\Android\Android Studio\gradle\gradle-2.10" />
-        <option name="modules">
-          <set>
-            <option value="$PROJECT_DIR$" />
-            <option value="$PROJECT_DIR$/Camera_Demo" />
-            <option value="$PROJECT_DIR$/Shake_And_Screenshot" />
-            <option value="$PROJECT_DIR$/Share_Simpledata" />
-            <option value="$PROJECT_DIR$/Splash_Guide_Pager" />
-            <option value="$PROJECT_DIR$/Universal_Image_loader_sample" />
-            <option value="$PROJECT_DIR$/apiDemos" />
-            <option value="$PROJECT_DIR$/fragment_demo" />
-            <option value="$PROJECT_DIR$/library" />
-          </set>
-        </option>
-        <option name="myModules">
-          <set>
-            <option value="$PROJECT_DIR$" />
-            <option value="$PROJECT_DIR$/Camera_Demo" />
-            <option value="$PROJECT_DIR$/Shake_And_Screenshot" />
-            <option value="$PROJECT_DIR$/Share_Simpledata" />
-            <option value="$PROJECT_DIR$/Splash_Guide_Pager" />
-            <option value="$PROJECT_DIR$/Universal_Image_loader_sample" />
-            <option value="$PROJECT_DIR$/apiDemos" />
-            <option value="$PROJECT_DIR$/fragment_demo" />
-            <option value="$PROJECT_DIR$/library" />
-          </set>
-        </option>
+        <option name="gradleHome" value="$APPLICATION_HOME_DIR$/gradle/gradle-2.10" />
       </GradleProjectSettings>
     </option>
   </component>

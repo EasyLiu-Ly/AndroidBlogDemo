@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">BinderDemo</string>
+    <string name="local_service_stopped">service_stopped</string>
+    <string name="local_service_started">service_started</string>
+    <string name="local_service_label">local service running</string>
+    <string name="local_service_connected">service connected</string>
+    <string name="local_service_disconnected">service disconnected</string>
+</resources>
