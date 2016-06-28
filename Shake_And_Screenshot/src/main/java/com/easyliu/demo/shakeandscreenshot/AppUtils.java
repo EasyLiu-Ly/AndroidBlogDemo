@@ -47,8 +47,8 @@ public class AppUtils {
         view.buildDrawingCache();
         Bitmap bitmap = view.getDrawingCache();
         File f = new File(picturePath);
-        if (f.exists()) {
-            f.delete();
+        if (!f.exists()) {
+            f.mkdirs();
         }
         FileOutputStream fout = null;
         try {
