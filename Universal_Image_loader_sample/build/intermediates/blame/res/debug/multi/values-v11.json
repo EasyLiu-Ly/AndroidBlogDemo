@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "F:\\Android\\AndroidStudioWorkSpace\\AndroidBlogDemo\\Universal_Image_loader_sample\\build\\intermediates\\res\\merged\\debug\\values-v11\\values-v11.xml",
+        "outputFile": "E:\\git project\\AndroidBlogDemo\\Universal_Image_loader_sample\\build\\intermediates\\res\\merged\\debug\\values-v11\\values-v11.xml",
         "map": [
             {
                 "to": {
@@ -11,13 +11,13 @@
                     "endOffset": 146
                 },
                 "from": {
-                    "file": "F:\\Android\\AndroidStudioWorkSpace\\AndroidBlogDemo\\Universal_Image_loader_sample\\src\\main\\res\\values-v11\\styles.xml",
+                    "file": "E:\\git project\\AndroidBlogDemo\\Universal_Image_loader_sample\\src\\main\\res\\values-v11\\styles.xml",
                     "position": {
                         "startLine": 3,
                         "startColumn": 4,
-                        "startOffset": 56,
+                        "startOffset": 59,
                         "endColumn": 95,
-                        "endOffset": 147
+                        "endOffset": 150
                     }
                 }
             }

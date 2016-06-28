@@ -1,6 +1,6 @@
 /*
  * This file is auto-generated.  DO NOT MODIFY.
- * Original file: F:\\Android\\AndroidStudioWorkSpace\\AndroidBlogDemo\\apiDemos\\src\\main\\aidl\\com\\example\\android\\apis\\app\\ISecondary.aidl
+ * Original file: E:\\git project\\AndroidBlogDemo\\apiDemos\\src\\main\\aidl\\com\\example\\android\\apis\\app\\ISecondary.aidl
  */
 package com.example.android.apis.app;
 /**

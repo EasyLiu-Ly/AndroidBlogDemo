@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="utf-8"?>
-<merger version="3"><dataSet config="main"><source path="F:\Android\AndroidStudioWorkSpace\AndroidBlogDemo\Universal_Image_loader_sample\src\androidTest\assets"/></dataSet></merger>
+<merger version="3"><dataSet config="main"><source path="E:\git project\AndroidBlogDemo\Universal_Image_loader_sample\src\androidTest\assets"/><source path="E:\git project\AndroidBlogDemo\Universal_Image_loader_sample\build\generated\assets\shaders\androidTest\debug"/></dataSet></merger>

@@ -6,18 +6,11 @@ import android.content.Context;
 import android.content.DialogInterface;
 import android.content.Intent;
 import android.content.IntentFilter;
-import android.graphics.Bitmap;
 import android.net.ConnectivityManager;
 import android.os.Bundle;
 import android.os.Environment;
 import android.os.Vibrator;
 import android.support.v7.app.AppCompatActivity;
-import android.view.View;
-
-import java.io.File;
-import java.io.FileNotFoundException;
-import java.io.FileOutputStream;
-import java.io.IOException;
 
 public abstract class BaseActivity extends AppCompatActivity {
     private ShakeListener mShakeListener;
@@ -92,7 +85,7 @@ public abstract class BaseActivity extends AppCompatActivity {
 
                             }
                         })
-                        .create();
+                        .create().show();
             }
         });
     }

@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "F:\\Android\\AndroidStudioWorkSpace\\AndroidBlogDemo\\Universal_Image_loader_sample\\build\\intermediates\\res\\merged\\debug\\values\\values.xml",
+        "outputFile": "E:\\git project\\AndroidBlogDemo\\Universal_Image_loader_sample\\build\\intermediates\\res\\merged\\debug\\values\\values.xml",
         "map": [
             {
                 "to": {
@@ -11,13 +11,13 @@
                     "endOffset": 110
                 },
                 "from": {
-                    "file": "F:\\Android\\AndroidStudioWorkSpace\\AndroidBlogDemo\\Universal_Image_loader_sample\\src\\main\\res\\values\\strings.xml",
+                    "file": "E:\\git project\\AndroidBlogDemo\\Universal_Image_loader_sample\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 9,
                         "startColumn": 1,
-                        "startOffset": 396,
+                        "startOffset": 405,
                         "endColumn": 56,
-                        "endOffset": 451
+                        "endOffset": 460
                     }
                 }
             },
@@ -30,13 +30,13 @@
                     "endOffset": 182
                 },
                 "from": {
-                    "file": "F:\\Android\\AndroidStudioWorkSpace\\AndroidBlogDemo\\Universal_Image_loader_sample\\src\\main\\res\\values\\strings.xml",
+                    "file": "E:\\git project\\AndroidBlogDemo\\Universal_Image_loader_sample\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 8,
                         "startColumn": 1,
-                        "startOffset": 327,
+                        "startOffset": 335,
                         "endColumn": 68,
-                        "endOffset": 394
+                        "endOffset": 402
                     }
                 }
             },
@@ -49,13 +49,13 @@
                     "endOffset": 248
                 },
                 "from": {
-                    "file": "F:\\Android\\AndroidStudioWorkSpace\\AndroidBlogDemo\\Universal_Image_loader_sample\\src\\main\\res\\values\\strings.xml",
+                    "file": "E:\\git project\\AndroidBlogDemo\\Universal_Image_loader_sample\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 6,
                         "startColumn": 1,
-                        "startOffset": 199,
+                        "startOffset": 205,
                         "endColumn": 62,
-                        "endOffset": 260
+                        "endOffset": 266
                     }
                 }
             },
@@ -68,13 +68,13 @@
                     "endOffset": 314
                 },
                 "from": {
-                    "file": "F:\\Android\\AndroidStudioWorkSpace\\AndroidBlogDemo\\Universal_Image_loader_sample\\src\\main\\res\\values\\strings.xml",
+                    "file": "E:\\git project\\AndroidBlogDemo\\Universal_Image_loader_sample\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 5,
                         "startColumn": 1,
-                        "startOffset": 136,
+                        "startOffset": 141,
                         "endColumn": 62,
-                        "endOffset": 197
+                        "endOffset": 202
                     }
                 }
             },
@@ -87,13 +87,13 @@
                     "endOffset": 382
                 },
                 "from": {
-                    "file": "F:\\Android\\AndroidStudioWorkSpace\\AndroidBlogDemo\\Universal_Image_loader_sample\\src\\main\\res\\values\\strings.xml",
+                    "file": "E:\\git project\\AndroidBlogDemo\\Universal_Image_loader_sample\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 7,
                         "startColumn": 1,
-                        "startOffset": 262,
+                        "startOffset": 269,
                         "endColumn": 64,
-                        "endOffset": 325
+                        "endOffset": 332
                     }
                 }
             },
@@ -106,13 +106,13 @@
                     "endOffset": 442
                 },
                 "from": {
-                    "file": "F:\\Android\\AndroidStudioWorkSpace\\AndroidBlogDemo\\Universal_Image_loader_sample\\src\\main\\res\\values\\strings.xml",
+                    "file": "E:\\git project\\AndroidBlogDemo\\Universal_Image_loader_sample\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 1,
-                        "startOffset": 79,
+                        "startOffset": 83,
                         "endColumn": 56,
-                        "endOffset": 134
+                        "endOffset": 138
                     }
                 }
             },
@@ -125,13 +125,13 @@
                     "endOffset": 499
                 },
                 "from": {
-                    "file": "F:\\Android\\AndroidStudioWorkSpace\\AndroidBlogDemo\\Universal_Image_loader_sample\\src\\main\\res\\values\\strings.xml",
+                    "file": "E:\\git project\\AndroidBlogDemo\\Universal_Image_loader_sample\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 15,
                         "startColumn": 1,
-                        "startOffset": 677,
+                        "startOffset": 692,
                         "endColumn": 53,
-                        "endOffset": 729
+                        "endOffset": 744
                     }
                 }
             },
@@ -144,13 +144,13 @@
                     "endOffset": 554
                 },
                 "from": {
-                    "file": "F:\\Android\\AndroidStudioWorkSpace\\AndroidBlogDemo\\Universal_Image_loader_sample\\src\\main\\res\\values\\strings.xml",
+                    "file": "E:\\git project\\AndroidBlogDemo\\Universal_Image_loader_sample\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 13,
                         "startColumn": 1,
-                        "startOffset": 571,
+                        "startOffset": 584,
                         "endColumn": 51,
-                        "endOffset": 621
+                        "endOffset": 634
                     }
                 }
             },
@@ -163,13 +163,13 @@
                     "endOffset": 609
                 },
                 "from": {
-                    "file": "F:\\Android\\AndroidStudioWorkSpace\\AndroidBlogDemo\\Universal_Image_loader_sample\\src\\main\\res\\values\\strings.xml",
+                    "file": "E:\\git project\\AndroidBlogDemo\\Universal_Image_loader_sample\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 12,
                         "startColumn": 1,
-                        "startOffset": 519,
+                        "startOffset": 531,
                         "endColumn": 51,
-                        "endOffset": 569
+                        "endOffset": 581
                     }
                 }
             },
@@ -182,13 +182,13 @@
                     "endOffset": 666
                 },
                 "from": {
-                    "file": "F:\\Android\\AndroidStudioWorkSpace\\AndroidBlogDemo\\Universal_Image_loader_sample\\src\\main\\res\\values\\strings.xml",
+                    "file": "E:\\git project\\AndroidBlogDemo\\Universal_Image_loader_sample\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 14,
                         "startColumn": 1,
-                        "startOffset": 623,
+                        "startOffset": 637,
                         "endColumn": 53,
-                        "endOffset": 675
+                        "endOffset": 689
                     }
                 }
             },
@@ -201,13 +201,13 @@
                     "endOffset": 747
                 },
                 "from": {
-                    "file": "F:\\Android\\AndroidStudioWorkSpace\\AndroidBlogDemo\\Universal_Image_loader_sample\\src\\main\\res\\values\\strings.xml",
+                    "file": "E:\\git project\\AndroidBlogDemo\\Universal_Image_loader_sample\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 16,
                         "startColumn": 1,
-                        "startOffset": 731,
+                        "startOffset": 747,
                         "endColumn": 77,
-                        "endOffset": 807
+                        "endOffset": 823
                     }
                 }
             },
@@ -220,13 +220,13 @@
                     "endOffset": 793
                 },
                 "from": {
-                    "file": "F:\\Android\\AndroidStudioWorkSpace\\AndroidBlogDemo\\Universal_Image_loader_sample\\src\\main\\res\\values\\strings.xml",
+                    "file": "E:\\git project\\AndroidBlogDemo\\Universal_Image_loader_sample\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 27,
                         "startColumn": 1,
-                        "startOffset": 1199,
+                        "startOffset": 1226,
                         "endColumn": 42,
-                        "endOffset": 1240
+                        "endOffset": 1267
                     }
                 }
             },
@@ -239,13 +239,13 @@
                     "endOffset": 845
                 },
                 "from": {
-                    "file": "F:\\Android\\AndroidStudioWorkSpace\\AndroidBlogDemo\\Universal_Image_loader_sample\\src\\main\\res\\values\\strings.xml",
+                    "file": "E:\\git project\\AndroidBlogDemo\\Universal_Image_loader_sample\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 11,
                         "startColumn": 1,
-                        "startOffset": 470,
+                        "startOffset": 481,
                         "endColumn": 48,
-                        "endOffset": 517
+                        "endOffset": 528
                     }
                 }
             },
@@ -258,13 +258,13 @@
                     "endOffset": 917
                 },
                 "from": {
-                    "file": "F:\\Android\\AndroidStudioWorkSpace\\AndroidBlogDemo\\Universal_Image_loader_sample\\src\\main\\res\\values\\strings.xml",
+                    "file": "E:\\git project\\AndroidBlogDemo\\Universal_Image_loader_sample\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 22,
                         "startColumn": 1,
-                        "startOffset": 966,
+                        "startOffset": 988,
                         "endColumn": 68,
-                        "endOffset": 1033
+                        "endOffset": 1055
                     }
                 }
             },
@@ -277,13 +277,13 @@
                     "endOffset": 993
                 },
                 "from": {
-                    "file": "F:\\Android\\AndroidStudioWorkSpace\\AndroidBlogDemo\\Universal_Image_loader_sample\\src\\main\\res\\values\\strings.xml",
+                    "file": "E:\\git project\\AndroidBlogDemo\\Universal_Image_loader_sample\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 21,
                         "startColumn": 1,
-                        "startOffset": 893,
+                        "startOffset": 914,
                         "endColumn": 72,
-                        "endOffset": 964
+                        "endOffset": 985
                     }
                 }
             },
@@ -296,13 +296,13 @@
                     "endOffset": 1061
                 },
                 "from": {
-                    "file": "F:\\Android\\AndroidStudioWorkSpace\\AndroidBlogDemo\\Universal_Image_loader_sample\\src\\main\\res\\values\\strings.xml",
+                    "file": "E:\\git project\\AndroidBlogDemo\\Universal_Image_loader_sample\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 24,
                         "startColumn": 1,
-                        "startOffset": 1102,
+                        "startOffset": 1126,
                         "endColumn": 64,
-                        "endOffset": 1165
+                        "endOffset": 1189
                     }
                 }
             },
@@ -315,13 +315,13 @@
                     "endOffset": 1131
                 },
                 "from": {
-                    "file": "F:\\Android\\AndroidStudioWorkSpace\\AndroidBlogDemo\\Universal_Image_loader_sample\\src\\main\\res\\values\\strings.xml",
+                    "file": "E:\\git project\\AndroidBlogDemo\\Universal_Image_loader_sample\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 23,
                         "startColumn": 1,
-                        "startOffset": 1035,
+                        "startOffset": 1058,
                         "endColumn": 66,
-                        "endOffset": 1100
+                        "endOffset": 1123
                     }
                 }
             },
@@ -334,13 +334,13 @@
                     "endOffset": 1175
                 },
                 "from": {
-                    "file": "F:\\Android\\AndroidStudioWorkSpace\\AndroidBlogDemo\\Universal_Image_loader_sample\\src\\main\\res\\values\\strings.xml",
+                    "file": "E:\\git project\\AndroidBlogDemo\\Universal_Image_loader_sample\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 19,
                         "startColumn": 1,
-                        "startOffset": 851,
+                        "startOffset": 870,
                         "endColumn": 40,
-                        "endOffset": 890
+                        "endOffset": 909
                     }
                 }
             },
@@ -353,13 +353,13 @@
                     "endOffset": 1219
                 },
                 "from": {
-                    "file": "F:\\Android\\AndroidStudioWorkSpace\\AndroidBlogDemo\\Universal_Image_loader_sample\\src\\main\\res\\values\\strings.xml",
+                    "file": "E:\\git project\\AndroidBlogDemo\\Universal_Image_loader_sample\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 18,
                         "startColumn": 1,
-                        "startOffset": 810,
+                        "startOffset": 828,
                         "endColumn": 40,
-                        "endOffset": 849
+                        "endOffset": 867
                     }
                 }
             },
@@ -372,13 +372,13 @@
                     "endOffset": 1310
                 },
                 "from": {
-                    "file": "F:\\Android\\AndroidStudioWorkSpace\\AndroidBlogDemo\\Universal_Image_loader_sample\\src\\main\\res\\values\\styles.xml",
+                    "file": "E:\\git project\\AndroidBlogDemo\\Universal_Image_loader_sample\\src\\main\\res\\values\\styles.xml",
                     "position": {
                         "startLine": 3,
                         "startColumn": 4,
-                        "startOffset": 56,
+                        "startOffset": 59,
                         "endColumn": 90,
-                        "endOffset": 142
+                        "endOffset": 145
                     }
                 }
             }

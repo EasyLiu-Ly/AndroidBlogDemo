@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "F:\\Android\\AndroidStudioWorkSpace\\AndroidBlogDemo\\Splash_Guide_Pager\\build\\intermediates\\res\\merged\\debug\\values\\values.xml",
+        "outputFile": "E:\\git project\\AndroidBlogDemo\\Splash_Guide_Pager\\build\\intermediates\\res\\merged\\debug\\values\\values.xml",
         "map": [
             {
                 "to": {
@@ -11,7 +11,7 @@
                     "endOffset": 108
                 },
                 "from": {
-                    "file": "F:\\Android\\AndroidStudioWorkSpace\\AndroidBlogDemo\\Splash_Guide_Pager\\src\\main\\res\\values\\dimens.xml",
+                    "file": "E:\\git project\\AndroidBlogDemo\\Splash_Guide_Pager\\src\\main\\res\\values\\dimens.xml",
                     "position": {
                         "startLine": 3,
                         "startColumn": 4,
@@ -30,7 +30,7 @@
                     "endOffset": 164
                 },
                 "from": {
-                    "file": "F:\\Android\\AndroidStudioWorkSpace\\AndroidBlogDemo\\Splash_Guide_Pager\\src\\main\\res\\values\\dimens.xml",
+                    "file": "E:\\git project\\AndroidBlogDemo\\Splash_Guide_Pager\\src\\main\\res\\values\\dimens.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
@@ -49,13 +49,13 @@
                     "endOffset": 217
                 },
                 "from": {
-                    "file": "F:\\Android\\AndroidStudioWorkSpace\\AndroidBlogDemo\\Splash_Guide_Pager\\src\\main\\res\\values\\strings.xml",
+                    "file": "E:\\git project\\AndroidBlogDemo\\Splash_Guide_Pager\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 5,
                         "startColumn": 4,
-                        "startOffset": 164,
+                        "startOffset": 165,
                         "endColumn": 52,
-                        "endOffset": 212
+                        "endOffset": 213
                     }
                 }
             },
@@ -68,13 +68,13 @@
                     "endOffset": 268
                 },
                 "from": {
-                    "file": "F:\\Android\\AndroidStudioWorkSpace\\AndroidBlogDemo\\Splash_Guide_Pager\\src\\main\\res\\values\\strings.xml",
+                    "file": "E:\\git project\\AndroidBlogDemo\\Splash_Guide_Pager\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 3,
                         "startColumn": 4,
-                        "startOffset": 58,
+                        "startOffset": 59,
                         "endColumn": 50,
-                        "endOffset": 104
+                        "endOffset": 105
                     }
                 }
             },
@@ -87,13 +87,13 @@
                     "endOffset": 321
                 },
                 "from": {
-                    "file": "F:\\Android\\AndroidStudioWorkSpace\\AndroidBlogDemo\\Splash_Guide_Pager\\src\\main\\res\\values\\strings.xml",
+                    "file": "E:\\git project\\AndroidBlogDemo\\Splash_Guide_Pager\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
-                        "startOffset": 110,
+                        "startOffset": 111,
                         "endColumn": 52,
-                        "endOffset": 158
+                        "endOffset": 159
                     }
                 }
             },
@@ -107,14 +107,14 @@
                     "endOffset": 612
                 },
                 "from": {
-                    "file": "F:\\Android\\AndroidStudioWorkSpace\\AndroidBlogDemo\\Splash_Guide_Pager\\src\\main\\res\\values\\styles.xml",
+                    "file": "E:\\git project\\AndroidBlogDemo\\Splash_Guide_Pager\\src\\main\\res\\values\\styles.xml",
                     "position": {
                         "startLine": 6,
                         "startColumn": 4,
-                        "startOffset": 191,
+                        "startOffset": 192,
                         "endLine": 12,
                         "endColumn": 12,
-                        "endOffset": 481
+                        "endOffset": 484
                     }
                 }
             },
@@ -128,14 +128,14 @@
                     "endOffset": 772
                 },
                 "from": {
-                    "file": "F:\\Android\\AndroidStudioWorkSpace\\AndroidBlogDemo\\Splash_Guide_Pager\\src\\main\\res\\values\\styles.xml",
+                    "file": "E:\\git project\\AndroidBlogDemo\\Splash_Guide_Pager\\src\\main\\res\\values\\styles.xml",
                     "position": {
                         "startLine": 15,
                         "startColumn": 4,
-                        "startOffset": 522,
+                        "startOffset": 525,
                         "endLine": 17,
                         "endColumn": 12,
-                        "endOffset": 679
+                        "endOffset": 682
                     }
                 }
             }

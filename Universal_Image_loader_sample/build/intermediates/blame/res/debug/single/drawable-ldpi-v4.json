@@ -1,18 +1,18 @@
 [
     {
-        "merged": "F:\\Android\\AndroidStudioWorkSpace\\AndroidBlogDemo\\Universal_Image_loader_sample\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ic_empty.png",
-        "source": "F:\\Android\\AndroidStudioWorkSpace\\AndroidBlogDemo\\Universal_Image_loader_sample\\src\\main\\res\\drawable-ldpi\\ic_empty.png"
+        "merged": "E:\\git project\\AndroidBlogDemo\\Universal_Image_loader_sample\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ic_stub.png",
+        "source": "E:\\git project\\AndroidBlogDemo\\Universal_Image_loader_sample\\src\\main\\res\\drawable-ldpi\\ic_stub.png"
     },
     {
-        "merged": "F:\\Android\\AndroidStudioWorkSpace\\AndroidBlogDemo\\Universal_Image_loader_sample\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ic_error.png",
-        "source": "F:\\Android\\AndroidStudioWorkSpace\\AndroidBlogDemo\\Universal_Image_loader_sample\\src\\main\\res\\drawable-ldpi\\ic_error.png"
+        "merged": "E:\\git project\\AndroidBlogDemo\\Universal_Image_loader_sample\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ic_launcher.png",
+        "source": "E:\\git project\\AndroidBlogDemo\\Universal_Image_loader_sample\\src\\main\\res\\drawable-ldpi\\ic_launcher.png"
     },
     {
-        "merged": "F:\\Android\\AndroidStudioWorkSpace\\AndroidBlogDemo\\Universal_Image_loader_sample\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ic_launcher.png",
-        "source": "F:\\Android\\AndroidStudioWorkSpace\\AndroidBlogDemo\\Universal_Image_loader_sample\\src\\main\\res\\drawable-ldpi\\ic_launcher.png"
+        "merged": "E:\\git project\\AndroidBlogDemo\\Universal_Image_loader_sample\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ic_error.png",
+        "source": "E:\\git project\\AndroidBlogDemo\\Universal_Image_loader_sample\\src\\main\\res\\drawable-ldpi\\ic_error.png"
     },
     {
-        "merged": "F:\\Android\\AndroidStudioWorkSpace\\AndroidBlogDemo\\Universal_Image_loader_sample\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ic_stub.png",
-        "source": "F:\\Android\\AndroidStudioWorkSpace\\AndroidBlogDemo\\Universal_Image_loader_sample\\src\\main\\res\\drawable-ldpi\\ic_stub.png"
+        "merged": "E:\\git project\\AndroidBlogDemo\\Universal_Image_loader_sample\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ic_empty.png",
+        "source": "E:\\git project\\AndroidBlogDemo\\Universal_Image_loader_sample\\src\\main\\res\\drawable-ldpi\\ic_empty.png"
     }
 ]
