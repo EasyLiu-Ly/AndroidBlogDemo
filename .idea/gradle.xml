@@ -17,8 +17,10 @@
             <option value="$PROJECT_DIR$/apiDemos" />
             <option value="$PROJECT_DIR$/binderdemo" />
             <option value="$PROJECT_DIR$/fragment_demo" />
+            <option value="$PROJECT_DIR$/immersivefullscreendemo" />
             <option value="$PROJECT_DIR$/library" />
             <option value="$PROJECT_DIR$/messengerdemo" />
+            <option value="$PROJECT_DIR$/toolbardemo" />
           </set>
         </option>
         <option name="myModules">
@@ -32,8 +34,10 @@
             <option value="$PROJECT_DIR$/apiDemos" />
             <option value="$PROJECT_DIR$/binderdemo" />
             <option value="$PROJECT_DIR$/fragment_demo" />
+            <option value="$PROJECT_DIR$/immersivefullscreendemo" />
             <option value="$PROJECT_DIR$/library" />
             <option value="$PROJECT_DIR$/messengerdemo" />
+            <option value="$PROJECT_DIR$/toolbardemo" />
           </set>
         </option>
       </GradleProjectSettings>

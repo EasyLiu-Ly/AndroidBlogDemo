@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context="com.easyliu.demo.orientaionsensor.activity.MainActivity">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <TextView
+                android:id="@+id/tv_yaw"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Yaw:"
+                android:textSize="20sp" />
+
+            <TextView
+                android:id="@+id/tv_pitch"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@id/tv_yaw"
+                android:layout_marginTop="@dimen/activity_horizontal_margin"
+                android:text="Pitch:"
+                android:textSize="20sp" />
+
+            <TextView
+                android:id="@+id/tv_roll"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@id/tv_pitch"
+                android:layout_marginTop="@dimen/activity_horizontal_margin"
+                android:text="Roll:"
+                android:textSize="20sp" />
+
+            <TextView
+                android:id="@+id/tv_yaw1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@id/tv_roll"
+                android:layout_marginTop="@dimen/activity_horizontal_margin"
+                android:text="YawMadgwickAHRS:"
+                android:textSize="20sp" />
+
+            <TextView
+                android:id="@+id/tv_pitch1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@id/tv_yaw1"
+                android:layout_marginTop="@dimen/activity_horizontal_margin"
+                android:text="PitchMadgwickAHRS:"
+                android:textSize="20sp" />
+
+            <TextView
+                android:id="@+id/tv_roll1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@id/tv_pitch1"
+                android:layout_marginTop="@dimen/activity_horizontal_margin"
+                android:text="RollMadgwickAHRS:"
+                android:textSize="20sp" />
+        </RelativeLayout>
+    </ScrollView>
+
+</RelativeLayout>

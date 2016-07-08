@@ -9,6 +9,8 @@ android {
 
         testApplicationId "com.example.android.apis.tests"
         testInstrumentationRunner "android.test.InstrumentationTestRunner"
+        minSdkVersion 4
+        targetSdkVersion 16
     }
 
     buildTypes {

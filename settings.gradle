@@ -1,4 +1,4 @@
-include ':Share_Simpledata', ':Camera_Demo', ':library', ':Universal_Image_loader_sample', ':Shake_And_Screenshot', ':fragment_demo'
+include ':Share_Simpledata', ':Camera_Demo', ':library', ':Universal_Image_loader_sample', ':Shake_And_Screenshot', ':fragment_demo', ':toolbardemo', ':immersivefullscreendemo'
 include ':apiDemos'
 include ':Splash_Guide_Pager'
 include ':binderdemo'
