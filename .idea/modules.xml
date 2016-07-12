@@ -11,10 +11,8 @@
       <module fileurl="file://$PROJECT_DIR$/apiDemos/apiDemos.iml" filepath="$PROJECT_DIR$/apiDemos/apiDemos.iml" />
       <module fileurl="file://$PROJECT_DIR$/binderdemo/binderdemo.iml" filepath="$PROJECT_DIR$/binderdemo/binderdemo.iml" />
       <module fileurl="file://$PROJECT_DIR$/fragment_demo/fragment_demo.iml" filepath="$PROJECT_DIR$/fragment_demo/fragment_demo.iml" />
-      <module fileurl="file://$PROJECT_DIR$/immersivefullscreendemo/immersivefullscreendemo.iml" filepath="$PROJECT_DIR$/immersivefullscreendemo/immersivefullscreendemo.iml" />
       <module fileurl="file://$PROJECT_DIR$/library/library.iml" filepath="$PROJECT_DIR$/library/library.iml" />
       <module fileurl="file://$PROJECT_DIR$/messengerdemo/messengerdemo.iml" filepath="$PROJECT_DIR$/messengerdemo/messengerdemo.iml" />
-      <module fileurl="file://$PROJECT_DIR$/toolbardemo/toolbardemo.iml" filepath="$PROJECT_DIR$/toolbardemo/toolbardemo.iml" />
     </modules>
   </component>
 </project>
