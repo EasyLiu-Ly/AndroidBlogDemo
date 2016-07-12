@@ -1,9 +1,10 @@
 // Top-level build file where you can add configuration options common to all sub-projects/modules.
 buildscript {
     repositories {
-        maven {
-            url "http://maven.oa.com/nexus/content/repositories/android"
-        }
+//        maven {
+//            url "http://maven.oa.com/nexus/content/repositories/android"
+//        }
+        jcenter()
     }
     dependencies {
         classpath 'com.android.tools.build:gradle:2.1.0'
@@ -14,9 +15,10 @@ buildscript {
 }
 allprojects {
     repositories {
-        maven {
-            url "http://maven.oa.com/nexus/content/repositories/android"
-        }
+//        maven {
+//            url "http://maven.oa.com/nexus/content/repositories/android"
+//        }
+        jcenter()
     }
 }
 task clean(type: Delete) {

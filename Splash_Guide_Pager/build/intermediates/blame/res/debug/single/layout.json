@@ -4,6 +4,22 @@
         "source": "E:\\git project\\AndroidBlogDemo\\Splash_Guide_Pager\\src\\main\\res\\layout\\layout_guide_pager_end.xml"
     },
     {
+        "merged": "F:\\Android\\AndroidStudioWorkSpace\\AndroidBlogDemo\\Splash_Guide_Pager\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "F:\\Android\\AndroidStudioWorkSpace\\AndroidBlogDemo\\Splash_Guide_Pager\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "F:\\Android\\AndroidStudioWorkSpace\\AndroidBlogDemo\\Splash_Guide_Pager\\build\\intermediates\\res\\merged\\debug\\layout\\activity_welcome.xml",
+        "source": "F:\\Android\\AndroidStudioWorkSpace\\AndroidBlogDemo\\Splash_Guide_Pager\\src\\main\\res\\layout\\activity_welcome.xml"
+    },
+    {
+        "merged": "F:\\Android\\AndroidStudioWorkSpace\\AndroidBlogDemo\\Splash_Guide_Pager\\build\\intermediates\\res\\merged\\debug\\layout\\layout_guide_pager_end.xml",
+        "source": "F:\\Android\\AndroidStudioWorkSpace\\AndroidBlogDemo\\Splash_Guide_Pager\\src\\main\\res\\layout\\layout_guide_pager_end.xml"
+    },
+    {
+        "merged": "F:\\Android\\AndroidStudioWorkSpace\\AndroidBlogDemo\\Splash_Guide_Pager\\build\\intermediates\\res\\merged\\debug\\layout\\activity_guide.xml",
+        "source": "F:\\Android\\AndroidStudioWorkSpace\\AndroidBlogDemo\\Splash_Guide_Pager\\src\\main\\res\\layout\\activity_guide.xml"
+    },
+    {
         "merged": "E:\\git project\\AndroidBlogDemo\\Splash_Guide_Pager\\build\\intermediates\\res\\merged\\debug\\layout\\activity_welcome.xml",
         "source": "E:\\git project\\AndroidBlogDemo\\Splash_Guide_Pager\\src\\main\\res\\layout\\activity_welcome.xml"
     },

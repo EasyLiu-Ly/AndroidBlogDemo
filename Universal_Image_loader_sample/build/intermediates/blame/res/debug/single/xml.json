@@ -2,5 +2,9 @@
     {
         "merged": "E:\\git project\\AndroidBlogDemo\\Universal_Image_loader_sample\\build\\intermediates\\res\\merged\\debug\\xml\\widget_provider.xml",
         "source": "E:\\git project\\AndroidBlogDemo\\Universal_Image_loader_sample\\src\\main\\res\\xml\\widget_provider.xml"
+    },
+    {
+        "merged": "F:\\Android\\AndroidStudioWorkSpace\\AndroidBlogDemo\\Universal_Image_loader_sample\\build\\intermediates\\res\\merged\\debug\\xml\\widget_provider.xml",
+        "source": "F:\\Android\\AndroidStudioWorkSpace\\AndroidBlogDemo\\Universal_Image_loader_sample\\src\\main\\res\\xml\\widget_provider.xml"
     }
 ]

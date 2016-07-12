@@ -2,5 +2,9 @@
     {
         "merged": "E:\\git project\\AndroidBlogDemo\\Universal_Image_loader_sample\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\ic_launcher.png",
         "source": "E:\\git project\\AndroidBlogDemo\\Universal_Image_loader_sample\\src\\main\\res\\drawable-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "F:\\Android\\AndroidStudioWorkSpace\\AndroidBlogDemo\\Universal_Image_loader_sample\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\ic_launcher.png",
+        "source": "F:\\Android\\AndroidStudioWorkSpace\\AndroidBlogDemo\\Universal_Image_loader_sample\\src\\main\\res\\drawable-xxxhdpi\\ic_launcher.png"
     }
 ]
