@@ -9,3 +9,4 @@
 .idea
 build.gradle
 apiDemos\build
+library\build
