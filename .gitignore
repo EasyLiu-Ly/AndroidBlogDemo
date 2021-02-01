@@ -5,8 +5,7 @@
 /.idea/libraries
 .DS_Store
 /build
+*/build
+*/*/build
 /captures
 .idea
-build.gradle
-apiDemos\build
-library\build
