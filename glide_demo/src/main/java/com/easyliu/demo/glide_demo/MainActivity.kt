@@ -3,8 +3,8 @@ package com.easyliu.demo.glide_demo
 import android.graphics.Color
 import android.graphics.drawable.ColorDrawable
 import android.os.Bundle
-import android.support.v7.app.AppCompatActivity
 import android.widget.ImageView
+import androidx.appcompat.app.AppCompatActivity
 import com.bumptech.glide.Glide
 
 class MainActivity : AppCompatActivity() {
